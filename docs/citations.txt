@@ -3,3 +3,4 @@ Capture SWOT notes
 Draft consent policy
 Check container configs
 Update logging sinks
+Check shipment status
