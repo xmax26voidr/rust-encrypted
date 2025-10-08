@@ -1,1 +1,2 @@
 Summarize regularization notes
+Add alternative approaches
