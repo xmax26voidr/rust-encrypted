@@ -2,3 +2,4 @@ Summarize CI logs
 Capture SWOT notes
 Draft consent policy
 Check container configs
+Update logging sinks
