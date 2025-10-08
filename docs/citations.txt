@@ -1,6 +1,1 @@
-Update partner map
-Update compatibility notes
-Add more documentation notes
-Document hotfix steps
-Draft partnership ideas
-Draft resilience test
+Summarize permission gaps
