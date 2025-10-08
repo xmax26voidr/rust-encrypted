@@ -1,3 +1,4 @@
 Update partner map
 Update compatibility notes
 Add more documentation notes
+Document hotfix steps
