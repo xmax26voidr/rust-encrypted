@@ -11,3 +11,4 @@ Update editorial calendar
 Draft mitigation guide
 Note deprecated functions
 Refine SEO checklist
+Log board decisions
