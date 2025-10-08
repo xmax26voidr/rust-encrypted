@@ -7,3 +7,4 @@ Refactor helper functions
 Record key rotation plan
 Update dropout rate
 Prepare presentation slides
+Draft contest plan
