@@ -1,1 +1,2 @@
 Review code for optimization
+Record key metrics
