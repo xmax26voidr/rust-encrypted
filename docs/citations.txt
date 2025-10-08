@@ -1,18 +1,1 @@
-Prepare hiring plan
-Record OKR sync
-Summarize product goals
-Record checksum values
-Draft sponsorship deals
-Record key rotation plan
-Summarize call notes
-Add unit test coverage
-Record checksum values
-Record sign-off notes
-Summarize war room chat
-Update CDN rules
-Audit database schema
-List open vulnerabilities
-Update style guide
-Record experiment seeds
-Plan data migration
-Update cross-team docs
+Update editorial calendar
