@@ -7,3 +7,4 @@ Note training epochs
 Prepare closure report
 Summarize quota usage
 Investigate error patterns
+Log mitigation steps
