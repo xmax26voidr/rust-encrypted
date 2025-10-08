@@ -1,1 +1,2 @@
 Draft detection rules
+Summarize funnel metrics
