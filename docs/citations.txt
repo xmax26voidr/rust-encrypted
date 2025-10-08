@@ -1,2 +1,3 @@
 Review glossary terms
 Record volunteer names
+Check build artifacts
