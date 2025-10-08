@@ -12,3 +12,4 @@ Summarize war room chat
 Update CDN rules
 Audit database schema
 List open vulnerabilities
+Update style guide
