@@ -8,3 +8,4 @@ Record benchmark outcomes
 Draft UX improvements
 Collect analytics snapshots
 Summarize ML metrics
+List shipping costs
