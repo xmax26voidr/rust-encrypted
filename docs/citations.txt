@@ -6,3 +6,4 @@ Review code for optimization
 Draft onboarding steps
 Record benchmark outcomes
 Draft UX improvements
+Collect analytics snapshots
