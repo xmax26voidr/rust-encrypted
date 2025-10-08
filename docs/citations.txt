@@ -1,4 +1,1 @@
-Draft detection rules
-Summarize funnel metrics
-Summarize permission gaps
-Schedule maintenance window
+Record blue-green notes
