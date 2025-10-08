@@ -9,3 +9,4 @@ Note follow-up actions
 Update compatibility notes
 Update editorial calendar
 Draft mitigation guide
+Note deprecated functions
