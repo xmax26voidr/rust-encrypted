@@ -7,3 +7,4 @@ Update logging sinks
 Note compliance reminders
 Check dependencies for updates
 Log strategic initiatives
+Capture retention risks
