@@ -1,7 +1,1 @@
-Record blue-green notes
-List UI components
-List open vulnerabilities
-List technical debts
-Record procurement steps
-List legal holds
-Update dependency versions
+Note jurisdiction issues
