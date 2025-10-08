@@ -3,3 +3,4 @@ Summarize regularization notes
 Note innovation backlog
 Record competitor scans
 Review code for optimization
+Draft onboarding steps
