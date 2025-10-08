@@ -7,3 +7,4 @@ Record key rotation plan
 Summarize call notes
 Add unit test coverage
 Record checksum values
+Record sign-off notes
