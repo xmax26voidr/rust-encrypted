@@ -1,2 +1,3 @@
 Summarize PCI items
 Update compatibility notes
+Review glossary terms
