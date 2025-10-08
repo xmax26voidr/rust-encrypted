@@ -11,3 +11,4 @@ Record sign-off notes
 Summarize war room chat
 Update CDN rules
 Audit database schema
+List open vulnerabilities
