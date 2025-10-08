@@ -1,2 +1,1 @@
-Summarize regularization notes
-Add alternative approaches
+List governance items
