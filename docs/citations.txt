@@ -3,3 +3,4 @@ List domain records
 Draft error codes
 Draft model results
 Start new iteration of the project
+Refactor helper functions
