@@ -6,3 +6,4 @@ Draft sponsorship deals
 Record key rotation plan
 Summarize call notes
 Add unit test coverage
+Record checksum values
