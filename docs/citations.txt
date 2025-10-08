@@ -3,3 +3,4 @@ Record OKR sync
 Summarize product goals
 Record checksum values
 Draft sponsorship deals
+Record key rotation plan
