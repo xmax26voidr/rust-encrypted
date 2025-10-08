@@ -5,3 +5,4 @@ Draft model results
 Start new iteration of the project
 Refactor helper functions
 Record key rotation plan
+Update dropout rate
