@@ -6,3 +6,4 @@ Update logging sinks
 Check shipment status
 Schedule publishing plan
 Draft feature flag list
+Update retention plan
