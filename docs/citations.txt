@@ -1,4 +1,1 @@
-Summarize referral data
-Note shadow test
-Update deletion logs
-Record infra costs
+Review glossary terms
