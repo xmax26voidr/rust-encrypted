@@ -1,11 +1,1 @@
-Draft social post plan
-Note overfit warning
-Update hash list
-Note campaign results
-Add more documentation notes
-Draft compliance review
-Update mitigation table
-Update rollback notes
-Summarize workshop notes
-Update AB split logs
-Draft NDA template
+Summarize exec summary
