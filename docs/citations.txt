@@ -3,3 +3,4 @@ Update compatibility notes
 Review glossary terms
 Draft onboarding checklist
 Check localization files
+List open vulnerabilities
