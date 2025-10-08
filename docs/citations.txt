@@ -5,3 +5,4 @@ Draft onboarding checklist
 Check localization files
 List open vulnerabilities
 Improve logging format
+Note alignment checks
