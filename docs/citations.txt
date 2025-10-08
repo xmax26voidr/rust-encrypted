@@ -3,3 +3,4 @@ Note DPA clauses
 Evaluate automation options
 Summarize ML metrics
 Track timeline adjustments
+Update logging sinks
