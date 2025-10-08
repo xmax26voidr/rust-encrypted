@@ -6,3 +6,4 @@ Draft exploration notes
 Note training epochs
 Prepare closure report
 Summarize quota usage
+Investigate error patterns
