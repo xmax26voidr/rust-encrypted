@@ -6,3 +6,4 @@ Add more documentation notes
 Draft compliance review
 Update mitigation table
 Update rollback notes
+Summarize workshop notes
