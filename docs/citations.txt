@@ -4,3 +4,4 @@ Draft PR highlights
 Review MFA adoption
 Summarize dependency map
 Draft sourcing notes
+Collect analytics snapshots
