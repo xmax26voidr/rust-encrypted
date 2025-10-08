@@ -5,3 +5,4 @@ Update fleet schedule
 Research best practices
 List governance items
 Check shipment status
+Note follow-up actions
