@@ -7,3 +7,4 @@ List governance items
 Check shipment status
 Note follow-up actions
 Update compatibility notes
+Update editorial calendar
