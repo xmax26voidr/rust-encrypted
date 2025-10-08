@@ -12,3 +12,4 @@ Draft mitigation guide
 Note deprecated functions
 Refine SEO checklist
 Log board decisions
+Summarize outage causes
