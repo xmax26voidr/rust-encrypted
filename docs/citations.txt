@@ -3,3 +3,4 @@ Update alerting rules
 Update AUC results
 Draft support script
 Draft exploration notes
+Note training epochs
