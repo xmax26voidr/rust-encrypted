@@ -1,1 +1,2 @@
 Summarize PCI items
+Update compatibility notes
