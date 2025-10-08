@@ -2,3 +2,4 @@ Summarize PCI items
 Update compatibility notes
 Review glossary terms
 Draft onboarding checklist
+Check localization files
