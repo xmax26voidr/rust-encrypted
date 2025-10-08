@@ -4,3 +4,4 @@ List open vulnerabilities
 List technical debts
 Record procurement steps
 List legal holds
+Update dependency versions
