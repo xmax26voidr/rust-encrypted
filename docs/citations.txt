@@ -1,3 +1,4 @@
 Update editorial calendar
 Prepare hiring plan
 Review pull requests
+Note deprecated functions
