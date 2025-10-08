@@ -2,3 +2,4 @@ Note content review
 Draft ethics policy
 Note registry updates
 Draft QA strategy
+Update status of tasks
