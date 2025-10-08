@@ -4,3 +4,4 @@ Review glossary terms
 Draft onboarding checklist
 Check localization files
 List open vulnerabilities
+Improve logging format
