@@ -8,3 +8,4 @@ Summarize call notes
 Add unit test coverage
 Record checksum values
 Record sign-off notes
+Summarize war room chat
