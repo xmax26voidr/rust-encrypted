@@ -2,3 +2,4 @@ Summarize exec summary
 List governance items
 Record OKR sync
 Document hotfix steps
+Review escalation paths
