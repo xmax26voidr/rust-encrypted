@@ -1,17 +1,1 @@
-Summarize CI logs
-Capture SWOT notes
-Draft consent policy
-Check container configs
-Update logging sinks
-Check shipment status
-Schedule publishing plan
-Draft feature flag list
-Update retention plan
-Log regression issues
-Check export rules
-Record prototype feedback
-Draft opportunity list
-Summarize PCI items
-Update plan for next release
-Review performance budgets
-Prepare closure report
+Draft registrar tasks
