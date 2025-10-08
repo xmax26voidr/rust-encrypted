@@ -1,2 +1,1 @@
-Summarize permission gaps
-Note suspicious patterns
+Note content review
