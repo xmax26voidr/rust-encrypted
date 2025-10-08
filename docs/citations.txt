@@ -3,3 +3,4 @@ Verify API endpoints
 Draft PR highlights
 Review MFA adoption
 Summarize dependency map
+Draft sourcing notes
