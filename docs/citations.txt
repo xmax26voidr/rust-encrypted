@@ -14,3 +14,4 @@ Note cross-browser tests
 Create new test cases
 Summarize hyperparam runs
 Summarize brand sentiment
+Note deprecation warnings
