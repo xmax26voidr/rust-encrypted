@@ -4,3 +4,4 @@ Evaluate automation options
 Summarize ML metrics
 Track timeline adjustments
 Update logging sinks
+Note compliance reminders
