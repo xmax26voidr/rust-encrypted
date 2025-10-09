@@ -1,1 +1,2 @@
 Update cross-team docs
+Simplify configuration
