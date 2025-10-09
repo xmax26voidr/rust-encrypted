@@ -4,3 +4,4 @@ Draft QA strategy
 Update compatibility notes
 Summarize top requests
 Check customs docs
+Note training needs
