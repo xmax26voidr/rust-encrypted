@@ -3,3 +3,4 @@ Summarize candidate profiles
 Note GDPR tasks
 Draft ethics policy
 Update API limits
+Record license info
