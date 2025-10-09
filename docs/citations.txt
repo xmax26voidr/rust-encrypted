@@ -9,3 +9,4 @@ Record IDS findings
 Update mentoring plan
 Start new iteration of the project
 Summarize quota usage
+Update plan for next release
