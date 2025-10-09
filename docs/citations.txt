@@ -6,3 +6,4 @@ Prepare status email
 List technical debts
 Draft mockup notes
 Schedule next sprint planning
+Capture article topics
