@@ -1,2 +1,1 @@
-Summarize employee feedback
-Update threat model
+Polish UI interactions
