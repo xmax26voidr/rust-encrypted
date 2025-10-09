@@ -1,3 +1,4 @@
 Summarize version bumps
 Record auth logs
 Summarize thank-you notes
+Review architecture decisions
