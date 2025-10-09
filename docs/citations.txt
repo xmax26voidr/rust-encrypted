@@ -13,3 +13,4 @@ Prepare status email
 Note follow-up actions
 Capture open questions
 Update hedging plan
+Draft leadership notes
