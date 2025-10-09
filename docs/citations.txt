@@ -1,3 +1,4 @@
 Record key metrics
 Update pricing table
 Summarize industry news
+List resource needs
