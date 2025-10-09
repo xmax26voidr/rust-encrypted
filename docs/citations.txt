@@ -1,9 +1,1 @@
-Draft error codes
-Draft loyalty program
-Note lessons learned
-Note DPA clauses
-Draft SLA updates
-Update threat model
-Update cross-team docs
-Create new test cases
-Record competitor scans
+Recheck security notes
