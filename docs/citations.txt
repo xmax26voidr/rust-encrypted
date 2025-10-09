@@ -9,3 +9,4 @@ Capture retention risks
 Update portfolio deck
 Update poll results
 Record auth logs
+Draft contest plan
