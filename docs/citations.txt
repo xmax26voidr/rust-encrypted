@@ -6,3 +6,4 @@ Summarize top requests
 Check customs docs
 Note training needs
 Update role matrix
+Summarize workshop notes
