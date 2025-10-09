@@ -5,3 +5,4 @@ Draft model results
 Note DPA clauses
 Update device matrix
 Draft weekly digest
+Note provider options
