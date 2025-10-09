@@ -1,1 +1,2 @@
 Update dropout rate
+Experiment with prototypes
