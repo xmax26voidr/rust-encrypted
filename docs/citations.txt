@@ -1,2 +1,3 @@
 Note trend shifts
 List missing coverage
+Draft UX improvements
