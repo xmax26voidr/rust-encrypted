@@ -3,3 +3,4 @@ Simplify configuration
 Note campaign results
 Draft retro notes
 Update diagrams
+Check monitoring alerts
