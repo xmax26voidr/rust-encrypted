@@ -8,3 +8,4 @@ Draft mockup notes
 Schedule next sprint planning
 Capture article topics
 Draft export compliance
+Note DPA clauses
