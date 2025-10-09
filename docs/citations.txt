@@ -8,3 +8,4 @@ Record shift handovers
 Update dispute outcomes
 Update supply data
 Draft optimization notes
+Record competitor moves
