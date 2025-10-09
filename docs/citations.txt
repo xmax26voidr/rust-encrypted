@@ -9,3 +9,4 @@ Audit database schema
 Update retention plan
 Update retention plan
 Refine backlog items
+Draft partnership ideas
