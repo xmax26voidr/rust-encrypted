@@ -3,3 +3,4 @@ List semantic changes
 Write installation notes
 Note follow-up actions
 Draft QA strategy
+Track training sessions
