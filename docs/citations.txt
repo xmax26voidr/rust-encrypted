@@ -1,2 +1,3 @@
 Draft support script
 List vendor options
+Collect metrics for dashboard
