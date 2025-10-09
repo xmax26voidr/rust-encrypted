@@ -1,6 +1,1 @@
-Add alternative approaches
-Update portfolio deck
-Update confusion matrix
-Summarize validation data
-Track training sessions
-Record gradual rollout
+Record automation scripts
