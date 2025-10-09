@@ -8,3 +8,4 @@ Update pricing table
 Review monitoring setup
 Update glossary
 Check container configs
+Draft QA strategy
