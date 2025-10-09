@@ -10,3 +10,4 @@ Update supply data
 Plan rebranding steps
 Record event calendar
 Prepare status email
+Note follow-up actions
