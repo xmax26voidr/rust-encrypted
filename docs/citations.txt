@@ -1,3 +1,4 @@
 Record automation scripts
 Track library updates
 Recheck boundary cases
+Note improvement ideas
