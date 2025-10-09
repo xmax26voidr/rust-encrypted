@@ -14,3 +14,4 @@ Update validation plan
 Update glossary
 Outline documentation gaps
 Reevaluate requirements
+List pending approvals
