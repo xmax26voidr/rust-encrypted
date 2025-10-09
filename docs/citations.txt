@@ -1,3 +1,4 @@
 Draft contest plan
 Note GDPR tasks
 Summarize deployment tests
+Note pipeline DAG
