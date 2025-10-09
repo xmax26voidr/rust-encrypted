@@ -3,3 +3,4 @@ Update portfolio deck
 Update confusion matrix
 Summarize validation data
 Track training sessions
+Record gradual rollout
