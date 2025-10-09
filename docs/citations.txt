@@ -16,3 +16,4 @@ Note deprecated functions
 Review logo sketches
 Summarize hyperparam runs
 Update session rules
+Note press mentions
