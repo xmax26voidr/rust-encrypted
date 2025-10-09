@@ -1,4 +1,1 @@
-Summarize version bumps
-Draft detection rules
-Draft escalation doc
-Record compliance status
+Document retry policy
