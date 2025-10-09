@@ -6,3 +6,4 @@ Update API limits
 Record license info
 Draft testimonials list
 Write outcome summary
+Summarize workshop notes
