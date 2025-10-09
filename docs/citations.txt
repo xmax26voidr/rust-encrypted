@@ -1,3 +1,4 @@
 Start new iteration of the project
 Note conference topics
 Improve modularity
+Summarize contract renewals
