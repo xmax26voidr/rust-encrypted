@@ -1,3 +1,4 @@
 Summarize exec summary
 Note decision log
 Review architecture decisions
+Draft contest plan
