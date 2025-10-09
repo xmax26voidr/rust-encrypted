@@ -1,4 +1,1 @@
-Recheck security notes
-Update status of tasks
-Plan deployment strategy
-Update cross-team docs
+Draft support script
