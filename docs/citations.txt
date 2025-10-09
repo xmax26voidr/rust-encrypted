@@ -1,3 +1,1 @@
-Update annotation tool
-Review monitoring setup
-Schedule publishing plan
+Evaluate automation options
