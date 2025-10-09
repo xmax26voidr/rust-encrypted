@@ -4,3 +4,4 @@ Note GDPR tasks
 Draft ethics policy
 Update API limits
 Record license info
+Draft testimonials list
