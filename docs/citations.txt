@@ -11,3 +11,4 @@ Check container configs
 Draft QA strategy
 Record risk register
 List domain records
+Update logging sinks
