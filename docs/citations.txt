@@ -4,3 +4,4 @@ Note campaign results
 Draft retro notes
 Update diagrams
 Check monitoring alerts
+Update pricing table
