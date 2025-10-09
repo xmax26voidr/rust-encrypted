@@ -1,2 +1,1 @@
-Track design iterations
-Record prototype feedback
+Start new iteration of the project
