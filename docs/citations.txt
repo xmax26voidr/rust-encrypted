@@ -13,3 +13,4 @@ Record validation scores
 Update validation plan
 Update glossary
 Outline documentation gaps
+Reevaluate requirements
