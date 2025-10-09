@@ -5,3 +5,4 @@ Draft ensemble plan
 Note design refresh
 Check ISO documents
 Note provider options
+Improve logging format
