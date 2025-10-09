@@ -1,11 +1,1 @@
-Update session rules
-Check TLS configuration
-Update governance notes
-Draft ensemble plan
-Prepare status email
-List technical debts
-Draft mockup notes
-Schedule next sprint planning
-Capture article topics
-Draft export compliance
-Note DPA clauses
+Note campaign results
