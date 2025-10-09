@@ -1,3 +1,4 @@
 Note design refresh
 Summarize candidate profiles
 Note GDPR tasks
+Draft ethics policy
