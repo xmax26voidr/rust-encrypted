@@ -10,3 +10,4 @@ Update portfolio deck
 Update poll results
 Record auth logs
 Draft contest plan
+Update SSL chain
