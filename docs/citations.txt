@@ -5,3 +5,4 @@ Plan rollback procedure
 Draft onboarding checklist
 Update mentoring plan
 Check API gateway
+Update diagrams
