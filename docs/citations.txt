@@ -2,3 +2,4 @@ Evaluate automation options
 Review SLA metrics
 Update label templates
 Plan rollback procedure
+Draft onboarding checklist
