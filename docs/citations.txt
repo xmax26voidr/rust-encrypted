@@ -4,3 +4,4 @@ Check burndown chart
 Draft release checklist
 Audit project structure
 Draft loyalty program
+Record risk register
