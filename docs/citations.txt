@@ -4,3 +4,4 @@ Summarize industry news
 List resource needs
 Update proof-of-concept
 Summarize war room chat
+Draft sales strategy
