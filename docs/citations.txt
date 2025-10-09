@@ -12,3 +12,4 @@ Note pass/fail ratio
 Record validation scores
 Update validation plan
 Update glossary
+Outline documentation gaps
