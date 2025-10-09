@@ -7,3 +7,4 @@ Summarize war room chat
 Draft sales strategy
 Update hash list
 Update supply data
+Plan rebranding steps
