@@ -1,13 +1,1 @@
-Draft experiment log
-Plan PR campaign
-Update poll results
-Plan lead generation
-Summarize outage causes
-Update cron jobs
-Draft pseudonymization plan
-Audit database schema
-Update retention plan
-Update retention plan
-Refine backlog items
-Draft partnership ideas
-Check delivery follow-up
+List influencer mentions
