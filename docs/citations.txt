@@ -1,3 +1,4 @@
 Add alternative approaches
 Update portfolio deck
 Update confusion matrix
+Summarize validation data
