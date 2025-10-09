@@ -1,1 +1,1 @@
-Check TLS configuration
+Schedule next sprint planning
