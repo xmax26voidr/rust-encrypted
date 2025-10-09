@@ -8,3 +8,4 @@ Record risk register
 Update contact list
 Capture monitoring gaps
 Note integrity checks
+List vendor options
