@@ -2,3 +2,4 @@ Summarize outage causes
 Recheck security notes
 Check burndown chart
 Draft release checklist
+Audit project structure
