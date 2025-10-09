@@ -2,3 +2,4 @@ Note press mentions
 Draft liquidity plan
 Note shadow test
 List semantic changes
+Update hedging plan
