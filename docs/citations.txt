@@ -2,3 +2,4 @@ Update session rules
 Check TLS configuration
 Update governance notes
 Draft ensemble plan
+Prepare status email
