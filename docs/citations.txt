@@ -3,3 +3,4 @@ Draft loyalty program
 Note lessons learned
 Note DPA clauses
 Draft SLA updates
+Update threat model
