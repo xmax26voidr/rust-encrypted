@@ -7,3 +7,4 @@ Check expiry dates
 Record shift handovers
 Update dispute outcomes
 Update supply data
+Draft optimization notes
