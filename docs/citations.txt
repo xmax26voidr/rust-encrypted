@@ -6,3 +6,4 @@ Draft onboarding checklist
 Update mentoring plan
 Check API gateway
 Update diagrams
+Start new iteration of the project
