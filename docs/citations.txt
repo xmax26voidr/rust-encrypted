@@ -1,3 +1,4 @@
 Update changelog with details
 List semantic changes
 Write installation notes
+Note follow-up actions
