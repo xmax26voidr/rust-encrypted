@@ -3,3 +3,4 @@ Check TLS configuration
 Update governance notes
 Draft ensemble plan
 Prepare status email
+List technical debts
