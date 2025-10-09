@@ -1,3 +1,4 @@
 Capture SWOT notes
 Update compatibility notes
 Adjust retry logic
+Draft ensemble plan
