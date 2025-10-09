@@ -1,15 +1,1 @@
-Capture SWOT notes
-Update compatibility notes
-Adjust retry logic
-Draft ensemble plan
-Note design refresh
-Check ISO documents
-Note provider options
-Improve logging format
-Check container configs
-Record CCPA checks
-Draft escalation doc
-Summarize workshop notes
-Draft precision notes
-Summarize opt-out stats
-Record restore attempt
+Review SLA metrics
