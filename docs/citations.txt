@@ -5,3 +5,4 @@ Draft release checklist
 Audit project structure
 Draft loyalty program
 Record risk register
+Update contact list
