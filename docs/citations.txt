@@ -8,3 +8,4 @@ Draft testimonials list
 Write outcome summary
 Summarize workshop notes
 Note design refresh
+Note pass/fail ratio
