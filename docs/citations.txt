@@ -1,1 +1,1 @@
-Verify API endpoints
+Capture SWOT notes
