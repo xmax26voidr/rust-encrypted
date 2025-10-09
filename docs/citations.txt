@@ -4,3 +4,4 @@ Adjust retry logic
 Draft ensemble plan
 Note design refresh
 Check ISO documents
+Note provider options
