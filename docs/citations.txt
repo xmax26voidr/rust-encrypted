@@ -2,3 +2,4 @@ Note provider options
 Log mitigation steps
 Track timeline adjustments
 Check clickthrough rate
+Note training needs
