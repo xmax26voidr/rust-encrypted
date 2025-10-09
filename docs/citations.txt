@@ -1,11 +1,1 @@
-Note trend shifts
-List missing coverage
-Draft UX improvements
-Update logging sinks
-Update annotation tool
-Check expiry dates
-Record shift handovers
-Update dispute outcomes
-Update supply data
-Draft optimization notes
-Record competitor moves
+Summarize version bumps
