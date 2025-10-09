@@ -1,7 +1,1 @@
-Update changelog with details
-List semantic changes
-Write installation notes
-Note follow-up actions
-Draft QA strategy
-Track training sessions
-Update SOC reports
+Verify API endpoints
