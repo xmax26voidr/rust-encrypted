@@ -1,9 +1,1 @@
-Polish UI interactions
-Draft experiment log
-Summarize AMA notes
-Draft model results
-Note DPA clauses
-Update device matrix
-Draft weekly digest
-Note provider options
-Draft sponsorship deals
+Track design iterations
