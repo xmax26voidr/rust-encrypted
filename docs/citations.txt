@@ -10,3 +10,4 @@ Check container configs
 Record CCPA checks
 Draft escalation doc
 Summarize workshop notes
+Draft precision notes
