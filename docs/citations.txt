@@ -8,3 +8,4 @@ Draft routing policies
 Capture retention risks
 Update portfolio deck
 Update poll results
+Record auth logs
