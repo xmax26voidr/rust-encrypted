@@ -8,3 +8,4 @@ Plan career paths
 Draft style samples
 Draft feature flag list
 Note trending topics
+List OKRs
