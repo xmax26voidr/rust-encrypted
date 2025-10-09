@@ -1,13 +1,1 @@
-Evaluate automation options
-Review SLA metrics
-Update label templates
-Plan rollback procedure
-Draft onboarding checklist
-Update mentoring plan
-Check API gateway
-Update diagrams
-Start new iteration of the project
-Update skill matrix
-Summarize ROC data
-Draft contest plan
-Summarize content audit
+Draft experiment log
