@@ -1,2 +1,3 @@
 Update annotation tool
 Review monitoring setup
+Schedule publishing plan
