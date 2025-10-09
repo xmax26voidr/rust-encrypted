@@ -1,14 +1,1 @@
-Summarize candidate profiles
-Record treasury notes
-Draft QA strategy
-Update compatibility notes
-Summarize top requests
-Check customs docs
-Note training needs
-Update role matrix
-Summarize workshop notes
-Summarize caching results
-Document key decisions
-Review code for optimization
-Investigate error patterns
-Review performance budgets
+Update annotation tool
