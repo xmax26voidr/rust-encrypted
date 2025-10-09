@@ -7,3 +7,4 @@ Draft sourcing notes
 Collect analytics snapshots
 Record IDS findings
 Update mentoring plan
+Start new iteration of the project
