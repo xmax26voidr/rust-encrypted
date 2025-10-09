@@ -1,1 +1,2 @@
 Draft support script
+List vendor options
