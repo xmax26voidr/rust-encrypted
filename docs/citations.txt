@@ -4,3 +4,4 @@ Summarize deployment tests
 Note pipeline DAG
 Note jurisdiction issues
 Draft sourcing notes
+Plan career paths
