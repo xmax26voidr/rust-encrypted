@@ -3,3 +3,4 @@ Draft model results
 Update style guide
 Capture SWOT notes
 Summarize referral data
+Capture article topics
