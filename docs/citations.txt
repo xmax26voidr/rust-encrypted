@@ -1,2 +1,3 @@
 Plan resource allocation
 Draft consent policy
+Update dependency versions
