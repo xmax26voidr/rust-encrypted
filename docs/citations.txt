@@ -1,9 +1,1 @@
-Draft upsell campaign
-Summarize scaling notes
-Update label templates
-Check anomaly alerts
-Add alternative approaches
-Review lessons learned
-Update brand colors
-Log board decisions
-Note customer churn
+List domain records
