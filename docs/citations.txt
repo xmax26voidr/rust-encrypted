@@ -5,3 +5,4 @@ Update backup policy
 Update pricing table
 Plan capacity increase
 Write summary report
+Summarize industry news
