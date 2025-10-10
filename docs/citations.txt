@@ -20,3 +20,4 @@ List influencer mentions
 List DR procedures
 Summarize market trends
 Update P&L sheet
+Update board minutes
