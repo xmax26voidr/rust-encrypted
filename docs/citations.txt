@@ -1,2 +1,1 @@
-Draft sourcing notes
-Refactor helper functions
+Update threat model
