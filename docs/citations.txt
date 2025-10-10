@@ -1,6 +1,1 @@
-Draft mitigation guide
-Summarize feedback loops
-Plan resource allocation
-List UI components
-Record treasury notes
-Draft onboarding checklist
+Update legal references
