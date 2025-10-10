@@ -10,3 +10,4 @@ Audit database schema
 Write installation notes
 Update CDN rules
 Note accessibility gaps
+Draft liquidity plan
