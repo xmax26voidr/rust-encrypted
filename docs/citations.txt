@@ -10,3 +10,4 @@ Note coverage scores
 Update load balancer notes
 Record conversion data
 Update ad creatives
+Record CCPA checks
