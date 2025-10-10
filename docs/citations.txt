@@ -1,1 +1,2 @@
 Draft sourcing notes
+Refactor helper functions
