@@ -5,3 +5,4 @@ Update recognition board
 Record IDS findings
 Record conversion data
 Summarize DDoS tests
+Draft sourcing notes
