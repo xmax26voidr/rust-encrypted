@@ -4,3 +4,4 @@ Record hackathon ideas
 Track library updates
 Update governance notes
 Update privacy notice
+Check benchmark scores
