@@ -1,8 +1,1 @@
-Collect metrics for dashboard
-Summarize quota usage
-Record key rotation plan
-Note integrity checks
-Summarize quota usage
-Record engagement stats
-Prepare case studies
-Note decision log
+Note shadow test
