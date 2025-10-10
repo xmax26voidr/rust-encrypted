@@ -3,3 +3,4 @@ Note lessons learned
 Draft sourcing notes
 Draft blog outline
 Record NPS score
+Summarize QA audits
