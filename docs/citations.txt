@@ -2,3 +2,4 @@ Plan resource allocation
 Draft consent policy
 Update dependency versions
 Draft logistics plan
+Draft release checklist
