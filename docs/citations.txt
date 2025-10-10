@@ -3,3 +3,4 @@ Audit database schema
 Draft ethics policy
 Update backup policy
 Update pricing table
+Plan capacity increase
