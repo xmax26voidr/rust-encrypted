@@ -3,3 +3,4 @@ Check localization files
 Record hackathon ideas
 Track library updates
 Update governance notes
+Update privacy notice
