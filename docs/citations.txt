@@ -1,3 +1,4 @@
 Collect metrics for dashboard
 Summarize quota usage
 Record key rotation plan
+Note integrity checks
