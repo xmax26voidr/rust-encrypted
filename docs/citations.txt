@@ -1,3 +1,4 @@
 Record CI/CD pipeline
 Note lessons learned
 Draft sourcing notes
+Draft blog outline
