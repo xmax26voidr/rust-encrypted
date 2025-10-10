@@ -8,3 +8,4 @@ List technical debts
 Summarize content audit
 List missing translations
 Summarize zone updates
+Draft support script
