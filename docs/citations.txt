@@ -1,2 +1,3 @@
 Note customer churn
 Summarize contract renewals
+List community ideas
