@@ -1,1 +1,1 @@
-Prepare A/B test plan
+Summarize CI logs
