@@ -4,3 +4,4 @@ Check breaking changes
 Check expiry dates
 Update glossary
 List known limitations
+Summarize CI logs
