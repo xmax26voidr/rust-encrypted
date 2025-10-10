@@ -6,3 +6,4 @@ Record volunteer names
 Draft style samples
 Record arbitration steps
 Record prototype feedback
+Note trending topics
