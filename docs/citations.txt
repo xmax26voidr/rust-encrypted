@@ -1,3 +1,4 @@
 Audit database schema
 Note DPA clauses
 Update FAQ section
+Check delivery follow-up
