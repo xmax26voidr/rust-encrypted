@@ -1,8 +1,1 @@
-Prepare A/B test plan
-Summarize outage causes
-Log regression issues
-Summarize deployment tests
-Note training epochs
-Plan oncall shifts
-Plan oncall shifts
-Record CSS tweaks
+Summarize product goals
