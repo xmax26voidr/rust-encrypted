@@ -1,2 +1,3 @@
 Draft mitigation guide
 Summarize feedback loops
+Plan resource allocation
