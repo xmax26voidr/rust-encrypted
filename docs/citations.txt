@@ -4,3 +4,4 @@ Draft mitigation guide
 Update dropout rate
 Record automation scripts
 Draft logistics plan
+Update SOC reports
