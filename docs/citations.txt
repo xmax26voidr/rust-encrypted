@@ -1,2 +1,3 @@
 Note sprint outcome
 Update language packs
+Note training epochs
