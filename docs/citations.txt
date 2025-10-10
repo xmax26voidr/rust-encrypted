@@ -25,3 +25,4 @@ Review architecture decisions
 Record feature votes
 Recheck boundary cases
 Draft testimonials list
+Draft compliance review
