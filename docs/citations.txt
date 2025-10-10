@@ -1,3 +1,4 @@
 Record engagement stats
 Record auth logs
 Record automation scripts
+Draft exploration notes
