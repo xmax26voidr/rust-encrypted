@@ -1,2 +1,1 @@
-Record underfit case
-Review caching strategy
+Note deprecated functions
