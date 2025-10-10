@@ -1,7 +1,1 @@
-Summarize thank-you notes
-Record budget estimates
-Draft social post plan
-Check shipment status
-Summarize ML metrics
-Check export rules
-Fix minor issues in workflow
+Draft upsell campaign
