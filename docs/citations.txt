@@ -1,3 +1,4 @@
 Note compliance reminders
 Update infra diagram
 Record CSS tweaks
+Summarize CI logs
