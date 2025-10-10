@@ -1,5 +1,1 @@
-Draft feature flag list
-Record action items
-Review logo sketches
-Summarize last meeting notes
-Review glossary terms
+Draft accessibility review
