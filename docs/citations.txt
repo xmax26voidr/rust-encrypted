@@ -12,3 +12,4 @@ Update CDN rules
 Note accessibility gaps
 Draft liquidity plan
 Record OKR sync
+Summarize quota usage
