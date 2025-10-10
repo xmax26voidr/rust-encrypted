@@ -5,3 +5,4 @@ Audit database schema
 Check API gateway
 Note suspicious patterns
 Summarize dependency map
+Document retry policy
