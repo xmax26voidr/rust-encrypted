@@ -24,3 +24,4 @@ Plan website refresh
 Review architecture decisions
 Record feature votes
 Recheck boundary cases
+Draft testimonials list
