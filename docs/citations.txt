@@ -2,3 +2,4 @@ List legal holds
 Check localization files
 Record hackathon ideas
 Track library updates
+Update governance notes
