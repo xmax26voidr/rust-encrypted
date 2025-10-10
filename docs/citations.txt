@@ -1,2 +1,1 @@
-Summarize AMA notes
-Update skill matrix
+Record engagement stats
