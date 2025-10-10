@@ -1,2 +1,3 @@
 Draft accessibility review
 Draft marketing blurb
+Record DB query logs
