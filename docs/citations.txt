@@ -1,3 +1,4 @@
 Draft upsell campaign
 Summarize scaling notes
 Update label templates
+Check anomaly alerts
