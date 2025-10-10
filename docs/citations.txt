@@ -2,3 +2,4 @@ Record interview notes
 Draft feature flag list
 Check breaking changes
 Check expiry dates
+Update glossary
