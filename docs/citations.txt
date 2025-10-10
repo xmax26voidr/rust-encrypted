@@ -1,8 +1,1 @@
-Draft NDA template
-Update swag inventory
-Summarize employee feedback
-Update recognition board
-Record IDS findings
-Record conversion data
-Summarize DDoS tests
-Draft sourcing notes
+Record labeling guide
