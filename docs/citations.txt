@@ -1,6 +1,1 @@
-Record expense items
-Draft detection rules
-Update fleet schedule
-Update CDN rules
-Fix minor issues in workflow
-List action follow-ups
+Expand integration tests
