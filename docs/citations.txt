@@ -9,3 +9,4 @@ Document retry policy
 Audit database schema
 Write installation notes
 Update CDN rules
+Note accessibility gaps
