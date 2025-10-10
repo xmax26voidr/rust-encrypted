@@ -6,3 +6,4 @@ Add alternative approaches
 Review lessons learned
 Update brand colors
 Log board decisions
+Note customer churn
