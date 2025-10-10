@@ -1,7 +1,1 @@
-Record CI/CD pipeline
-Note lessons learned
-Draft sourcing notes
-Draft blog outline
-Record NPS score
-Summarize QA audits
-Draft accessibility review
+Update proof-of-concept
