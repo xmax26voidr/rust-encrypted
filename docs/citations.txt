@@ -4,3 +4,4 @@ Update dependency versions
 Draft logistics plan
 Draft release checklist
 Summarize SIEM setup
+Record OKR sync
