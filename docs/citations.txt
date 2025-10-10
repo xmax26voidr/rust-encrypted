@@ -1,7 +1,1 @@
-Note sprint outcome
-Update language packs
-Note training epochs
-Reevaluate requirements
-Draft ensemble plan
-Draft sponsorship deals
-Record certification status
+Draft optimization notes
