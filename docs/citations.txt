@@ -1,6 +1,1 @@
-List domain records
-Update test matrix
-Summarize warehouse logs
-Record cache purge steps
-List missing coverage
-Record blue-green notes
+Draft mitigation guide
