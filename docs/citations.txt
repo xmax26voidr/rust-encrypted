@@ -17,3 +17,4 @@ Note latency spikes
 Record arbitration steps
 Plan rebranding steps
 List influencer mentions
+List DR procedures
