@@ -4,3 +4,4 @@ Record conversion data
 Record benchmark outcomes
 Summarize permission gaps
 Record edge cases
+Note compliance reminders
