@@ -8,3 +8,4 @@ Write summary report
 Summarize industry news
 Note coverage scores
 Update load balancer notes
+Record conversion data
