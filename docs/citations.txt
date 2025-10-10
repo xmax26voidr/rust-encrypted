@@ -1,2 +1,1 @@
-Summarize CI logs
-Draft routing policies
+Note toggle plan
