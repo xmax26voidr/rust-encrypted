@@ -2,3 +2,4 @@ Expand integration tests
 Audit database schema
 Draft ethics policy
 Update backup policy
+Update pricing table
