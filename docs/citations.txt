@@ -7,3 +7,4 @@ Note suspicious patterns
 Summarize dependency map
 Document retry policy
 Audit database schema
+Write installation notes
