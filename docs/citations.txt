@@ -5,3 +5,4 @@ List vendor options
 Note encryption methods
 Recheck boundary cases
 List password policies
+Analyze user feedback
