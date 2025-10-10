@@ -1,5 +1,1 @@
-Record engagement stats
-Record auth logs
-Record automation scripts
-Draft exploration notes
-Summarize SIEM setup
+Collect metrics for dashboard
