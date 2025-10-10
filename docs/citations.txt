@@ -5,3 +5,4 @@ Note integrity checks
 Summarize quota usage
 Record engagement stats
 Prepare case studies
+Note decision log
