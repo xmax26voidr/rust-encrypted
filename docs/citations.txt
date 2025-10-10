@@ -1,3 +1,1 @@
-Write installation notes
-Note deprecated functions
-Refactor helper functions
+Draft NDA template
