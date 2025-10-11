@@ -7,3 +7,4 @@ Note delivery issues
 Plan team retro
 List technical debts
 Check clickthrough rate
+Draft liquidity plan
