@@ -1,1 +1,2 @@
 Investigate error patterns
+Verify API endpoints
