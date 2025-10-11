@@ -6,3 +6,4 @@ Check API gateway
 Plan rebranding steps
 Log mitigation steps
 Draft emergency contacts
+Update contact list
