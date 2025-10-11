@@ -11,3 +11,4 @@ Draft liquidity plan
 Capture open questions
 Update dropout rate
 Record CCPA checks
+Note reorder points
