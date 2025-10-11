@@ -1,2 +1,1 @@
-Record competitor moves
-Summarize regularization notes
+Draft roadmap sketch
