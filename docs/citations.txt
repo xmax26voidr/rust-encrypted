@@ -1,2 +1,3 @@
 Note pass/fail ratio
 Refactor helper functions
+Draft UX improvements
