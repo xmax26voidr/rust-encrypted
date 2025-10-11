@@ -1,8 +1,1 @@
-Plan PR campaign
-Summarize velocity trend
-Update mentoring plan
-Record user stories
-List resource needs
-Review SLA metrics
-Draft failover plan
-Draft ensemble plan
+Prepare presentation slides
