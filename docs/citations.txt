@@ -9,3 +9,4 @@ Log post-launch issues
 Note deprecation warnings
 Plan PR campaign
 Summarize risks identified
+Record license info
