@@ -10,3 +10,4 @@ Polish UI interactions
 Plan career paths
 Summarize caching results
 Polish UI interactions
+Add fallback options
