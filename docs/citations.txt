@@ -3,3 +3,4 @@ Note identity checks
 Update dispute outcomes
 Record conversion data
 Summarize ROC data
+Summarize opt-out stats
