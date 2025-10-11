@@ -7,3 +7,4 @@ Summarize opt-out stats
 Review contract clauses
 Record CI/CD pipeline
 Record shift handovers
+Draft liquidity plan
