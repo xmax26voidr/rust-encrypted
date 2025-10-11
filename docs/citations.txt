@@ -1,13 +1,1 @@
-Check delivery follow-up
-Note identity checks
-Update dispute outcomes
-Record conversion data
-Summarize ROC data
-Summarize opt-out stats
-Review contract clauses
-Record CI/CD pipeline
-Record shift handovers
-Draft liquidity plan
-Track design iterations
-Note press mentions
-Summarize SIEM setup
+Record competitor moves
