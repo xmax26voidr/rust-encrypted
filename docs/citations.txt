@@ -16,3 +16,4 @@ Note deprecated functions
 Review code for optimization
 Capture retention risks
 Track timeline adjustments
+Note decision log
