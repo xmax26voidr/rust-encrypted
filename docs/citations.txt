@@ -8,3 +8,4 @@ Log mitigation steps
 Draft emergency contacts
 Update contact list
 Brainstorm feature ideas
+Record auth logs
