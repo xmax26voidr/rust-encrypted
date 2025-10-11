@@ -4,3 +4,4 @@ Update mentoring plan
 Record user stories
 List resource needs
 Review SLA metrics
+Draft failover plan
