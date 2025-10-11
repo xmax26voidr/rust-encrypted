@@ -9,3 +9,4 @@ List technical debts
 Check clickthrough rate
 Draft liquidity plan
 Capture open questions
+Update dropout rate
