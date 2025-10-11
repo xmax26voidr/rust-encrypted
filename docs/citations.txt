@@ -1,16 +1,1 @@
-Update legal references
-Record HR initiatives
-Check localization files
-Prepare A/B test plan
-Check export rules
-Draft error codes
-Summarize DDoS tests
-Log post-launch issues
-Note deprecation warnings
-Plan PR campaign
-Summarize risks identified
-Record license info
-List rate limit configs
-Draft roadmap sketch
-Draft SLA updates
-Fix minor issues in workflow
+Update glossary
