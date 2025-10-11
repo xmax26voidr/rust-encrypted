@@ -1,4 +1,1 @@
-Update SSL chain
-Summarize KPIs
-Note threshold breaches
-Update API limits
+List vendor options
