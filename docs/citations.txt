@@ -5,3 +5,4 @@ Note training epochs
 List influencer mentions
 Review escalation paths
 Capture monitoring gaps
+List rotation schedule
