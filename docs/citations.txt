@@ -4,3 +4,4 @@ Summarize SIEM setup
 Note training epochs
 List influencer mentions
 Review escalation paths
+Capture monitoring gaps
