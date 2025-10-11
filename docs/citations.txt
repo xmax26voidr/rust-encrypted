@@ -14,3 +14,4 @@ Record CCPA checks
 Note reorder points
 Validate new assumptions
 Outline documentation gaps
+Summarize litigation notes
