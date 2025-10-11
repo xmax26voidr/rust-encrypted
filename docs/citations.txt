@@ -4,3 +4,4 @@ Draft UX improvements
 Record arbitration steps
 Check API gateway
 Plan rebranding steps
+Log mitigation steps
