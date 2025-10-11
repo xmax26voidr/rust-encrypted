@@ -4,3 +4,4 @@ Note provider options
 Plan capacity increase
 List community ideas
 Note delivery issues
+Plan team retro
