@@ -1,1 +1,1 @@
-Update glossary
+Summarize CI logs
