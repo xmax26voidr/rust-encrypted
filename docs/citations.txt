@@ -4,3 +4,4 @@ Draft testimonials list
 Note innovation backlog
 Update legal references
 Improve modularity
+Summarize trade risks
