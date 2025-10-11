@@ -5,3 +5,4 @@ Record conversion data
 Summarize ROC data
 Summarize opt-out stats
 Review contract clauses
+Record CI/CD pipeline
