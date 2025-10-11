@@ -9,3 +9,4 @@ Record CI/CD pipeline
 Record shift handovers
 Draft liquidity plan
 Track design iterations
+Note press mentions
