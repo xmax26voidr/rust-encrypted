@@ -6,3 +6,4 @@ List community ideas
 Note delivery issues
 Plan team retro
 List technical debts
+Check clickthrough rate
