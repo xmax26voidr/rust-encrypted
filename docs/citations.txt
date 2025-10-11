@@ -8,3 +8,4 @@ Plan team retro
 List technical debts
 Check clickthrough rate
 Draft liquidity plan
+Capture open questions
