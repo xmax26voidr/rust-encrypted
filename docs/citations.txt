@@ -17,3 +17,4 @@ Review code for optimization
 Capture retention risks
 Track timeline adjustments
 Note decision log
+Update P&L sheet
