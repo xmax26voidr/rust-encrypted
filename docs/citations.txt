@@ -3,3 +3,4 @@ Refactor helper functions
 Draft UX improvements
 Record arbitration steps
 Check API gateway
+Plan rebranding steps
