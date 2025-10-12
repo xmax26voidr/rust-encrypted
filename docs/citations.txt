@@ -20,3 +20,4 @@ Update pricing table
 Track design iterations
 Note suspicious patterns
 Record conversion data
+Review architecture decisions
