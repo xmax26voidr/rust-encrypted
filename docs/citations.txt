@@ -10,3 +10,4 @@ Draft forum summary
 Update deletion logs
 Draft PR highlights
 Clarify design goals
+Check API gateway
