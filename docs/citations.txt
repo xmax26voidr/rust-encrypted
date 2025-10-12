@@ -1,10 +1,1 @@
-Update infra diagram
-Note pass/fail ratio
-Check export rules
-Expand integration tests
-Check dependencies for updates
-Summarize traffic weights
-Record F1 score
-Record OKR sync
-Check export rules
-Expand integration tests
+Update governance notes
