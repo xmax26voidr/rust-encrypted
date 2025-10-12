@@ -1,9 +1,1 @@
-Recheck boundary cases
-Plan team retro
-Summarize KPIs
-Draft celebration notes
-Summarize version bumps
-Check ISO documents
-Update partner map
-Summarize anonymization steps
-Record CCPA checks
+Check breaking changes
