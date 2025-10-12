@@ -13,3 +13,4 @@ Clarify design goals
 Check API gateway
 Note integrity checks
 Update AB split logs
+Record inflation impact
