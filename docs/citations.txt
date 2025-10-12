@@ -11,3 +11,4 @@ Update deletion logs
 Draft PR highlights
 Clarify design goals
 Check API gateway
+Note integrity checks
