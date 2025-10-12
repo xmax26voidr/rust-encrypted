@@ -10,3 +10,4 @@ Draft reproducibility plan
 List semantic changes
 Update swag inventory
 Update mentoring plan
+Update dropout rate
