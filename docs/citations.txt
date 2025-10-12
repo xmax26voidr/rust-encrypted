@@ -1,4 +1,1 @@
-Note alignment checks
-Draft resilience test
-Record steering notes
-Reevaluate requirements
+Record gradual rollout
