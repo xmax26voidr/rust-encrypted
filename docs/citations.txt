@@ -16,3 +16,4 @@ Draft compliance review
 Collect metrics for dashboard
 Update rollback notes
 Review SLA metrics
+Draft PR highlights
