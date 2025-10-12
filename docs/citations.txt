@@ -7,3 +7,4 @@ Draft quarterly report
 Note customer churn
 Record stakeholder feedback
 Record CI/CD pipeline
+Summarize key takeaways
