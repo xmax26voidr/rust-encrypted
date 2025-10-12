@@ -1,6 +1,1 @@
-Update governance notes
-Track design iterations
-Plan website refresh
-Draft roadmap alignment
-Update collaboration doc
-Update CDN rules
+Note lessons learned
