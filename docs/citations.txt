@@ -8,3 +8,4 @@ Record budget estimates
 Update collaboration doc
 Summarize permission gaps
 Draft failover plan
+Draft migration checklist
