@@ -5,3 +5,4 @@ Update pricing table
 Refine SEO checklist
 Summarize SIEM setup
 Check benchmark scores
+Note registry updates
