@@ -1,7 +1,1 @@
-Plan data migration
-Add alternative approaches
-Brainstorm feature ideas
-Note interest changes
-Note winner list
-Draft SLA updates
-Update dropout rate
+Update collaboration doc
