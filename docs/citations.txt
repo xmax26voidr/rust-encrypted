@@ -4,3 +4,4 @@ Summarize last meeting notes
 Record progress KPIs
 List community ideas
 Note decision log
+Summarize dependency map
