@@ -14,3 +14,4 @@ Draft PR highlights
 Record DB query logs
 Update privacy notice
 Record conversion data
+Summarize launch steps
