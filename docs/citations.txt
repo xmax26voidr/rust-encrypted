@@ -1,8 +1,1 @@
-Capture UI feedback
-Note decision log
-Check shipment status
-Draft documentation outline
-Log post-launch issues
-Summarize version bumps
-Plan data migration
-Investigate performance bottleneck
+Note identity checks
