@@ -24,3 +24,4 @@ List rotation schedule
 Note GDPR tasks
 Draft integration plan
 Record inflation impact
+Draft mockup notes
