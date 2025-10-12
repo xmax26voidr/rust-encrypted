@@ -8,3 +8,4 @@ Note customer churn
 Record stakeholder feedback
 Record CI/CD pipeline
 Summarize key takeaways
+Summarize testing report
