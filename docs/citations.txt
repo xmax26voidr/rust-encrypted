@@ -8,3 +8,4 @@ Check benchmark scores
 Note registry updates
 Draft forum summary
 Update deletion logs
+Draft PR highlights
