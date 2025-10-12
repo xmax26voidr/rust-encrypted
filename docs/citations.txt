@@ -1,12 +1,1 @@
-Draft model results
-Summarize rollback drills
-Note decision log
-Summarize rollback drills
-Record prototype feedback
-Note legal risks
-Draft NDA template
-Review pull requests
-Draft accessibility review
-Log daily progress
-Update test matrix
-Track configuration drift
+Record underfit case
