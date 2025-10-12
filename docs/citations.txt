@@ -22,3 +22,4 @@ Note suspicious patterns
 Record conversion data
 Review architecture decisions
 Summarize permission gaps
+Draft loyalty program
