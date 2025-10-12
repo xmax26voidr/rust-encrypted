@@ -17,3 +17,4 @@ Record conversion data
 Summarize launch steps
 Update editorial calendar
 Note trend shifts
+Note press mentions
