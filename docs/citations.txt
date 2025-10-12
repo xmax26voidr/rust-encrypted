@@ -4,3 +4,4 @@ Note decision log
 Summarize rollback drills
 Record prototype feedback
 Note legal risks
+Draft NDA template
