@@ -1,2 +1,3 @@
 Check localization files
 Update mitigation table
+Schedule publishing plan
