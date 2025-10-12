@@ -6,3 +6,4 @@ List open vulnerabilities
 Record budget estimates
 Draft roadmap sketch
 Record certification status
+Draft reproducibility plan
