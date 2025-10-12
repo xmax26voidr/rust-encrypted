@@ -18,3 +18,4 @@ Summarize launch steps
 Update editorial calendar
 Note trend shifts
 Note press mentions
+Record arbitration steps
