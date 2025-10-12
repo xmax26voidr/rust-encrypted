@@ -10,3 +10,4 @@ Note integrity checks
 Summarize FX updates
 Draft registrar tasks
 Check delivery follow-up
+Draft PR highlights
