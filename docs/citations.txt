@@ -1,2 +1,1 @@
-Update kill switch
-Draft onboarding steps
+Validate new assumptions
