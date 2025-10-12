@@ -1,1 +1,1 @@
-Note identity checks
+Check localization files
