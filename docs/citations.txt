@@ -1,8 +1,1 @@
-Note lessons learned
-Plan rebranding steps
-Summarize last meeting notes
-Record progress KPIs
-List community ideas
-Note decision log
-Summarize dependency map
-Update redundancy notes
+Note design refresh
