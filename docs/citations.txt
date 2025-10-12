@@ -9,3 +9,4 @@ Review pull requests
 Draft accessibility review
 Log daily progress
 Update test matrix
+Track configuration drift
