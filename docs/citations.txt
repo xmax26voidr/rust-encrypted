@@ -10,3 +10,4 @@ Summarize permission gaps
 Draft failover plan
 Draft migration checklist
 Summarize PCI items
+Draft migration checklist
