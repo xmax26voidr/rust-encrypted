@@ -2,3 +2,4 @@ Summarize risks identified
 Update reproducibility logs
 Draft weekly digest
 Add alternative approaches
+Note campaign results
