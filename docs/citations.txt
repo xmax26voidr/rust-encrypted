@@ -3,3 +3,4 @@ Plan team retro
 Summarize KPIs
 Draft celebration notes
 Summarize version bumps
+Check ISO documents
