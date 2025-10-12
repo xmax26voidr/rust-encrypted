@@ -2,3 +2,4 @@ Recheck boundary cases
 Plan team retro
 Summarize KPIs
 Draft celebration notes
+Summarize version bumps
