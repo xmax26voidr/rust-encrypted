@@ -6,3 +6,4 @@ Summarize version bumps
 Check ISO documents
 Update partner map
 Summarize anonymization steps
+Record CCPA checks
