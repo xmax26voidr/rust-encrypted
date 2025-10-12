@@ -7,3 +7,4 @@ Note legal risks
 Draft NDA template
 Review pull requests
 Draft accessibility review
+Log daily progress
