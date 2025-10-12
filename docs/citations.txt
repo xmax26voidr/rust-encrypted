@@ -3,3 +3,4 @@ List discount schemes
 Summarize thank-you notes
 Draft policy updates
 Record import duties
+Note configuration changes
