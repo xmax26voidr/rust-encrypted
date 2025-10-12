@@ -9,3 +9,4 @@ Record certification status
 Draft reproducibility plan
 List semantic changes
 Update swag inventory
+Update mentoring plan
