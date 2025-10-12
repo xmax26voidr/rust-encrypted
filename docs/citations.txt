@@ -1,1 +1,2 @@
 Update infra diagram
+Note pass/fail ratio
