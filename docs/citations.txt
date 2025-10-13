@@ -9,3 +9,4 @@ Update compatibility notes
 Note trend shifts
 Capture open questions
 Draft blog outline
+List OKRs
