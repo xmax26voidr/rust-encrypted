@@ -13,3 +13,4 @@ Draft sales strategy
 Write installation notes
 Record retention schedule
 Record key rotation plan
+Draft integration plan
