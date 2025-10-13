@@ -1,1 +1,2 @@
 Summarize velocity trend
+Note sprint outcome
