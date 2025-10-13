@@ -1,7 +1,1 @@
-Update dependency versions
-Summarize workshop notes
-Summarize journalist list
-Summarize audits
-List domain records
-Update FAQ section
-Refactor helper functions
+Draft loyalty program
