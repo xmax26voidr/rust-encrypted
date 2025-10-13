@@ -1,2 +1,3 @@
 Summarize velocity trend
 Note sprint outcome
+Draft canary rollout
