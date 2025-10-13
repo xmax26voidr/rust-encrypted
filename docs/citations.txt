@@ -1,12 +1,1 @@
-Record load test data
-Update dispute outcomes
-Summarize rollback drills
-Draft experiment log
-Summarize DDoS tests
-Note campaign results
-Note overfit warning
-Update compatibility notes
-Note trend shifts
-Capture open questions
-Draft blog outline
-List OKRs
+Update dependency versions
