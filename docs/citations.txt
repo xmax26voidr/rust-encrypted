@@ -5,3 +5,4 @@ Record budget estimates
 Check build artifacts
 Draft loyalty program
 Check customs docs
+Log regression issues
