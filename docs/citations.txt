@@ -1,3 +1,4 @@
 Record event calendar
 Draft documentation outline
 List booth designs
+Record budget estimates
