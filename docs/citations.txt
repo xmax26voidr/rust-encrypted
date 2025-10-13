@@ -4,3 +4,4 @@ Summarize funnel metrics
 Summarize bug triage
 Write outcome summary
 Summarize rollout success
+Prepare closure report
