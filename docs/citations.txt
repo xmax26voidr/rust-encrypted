@@ -7,3 +7,4 @@ Draft loyalty program
 Check customs docs
 Log regression issues
 Draft staging plan
+Update FAQ section
