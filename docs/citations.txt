@@ -4,3 +4,4 @@ Record sign-off notes
 Draft SSO integration
 Summarize rollout success
 Capture article topics
+Note reorder points
