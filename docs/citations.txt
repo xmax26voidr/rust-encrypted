@@ -10,3 +10,4 @@ Draft staging plan
 Update FAQ section
 Log board decisions
 Record prize details
+Record risk register
