@@ -1,16 +1,1 @@
-Check localization files
-Update mitigation table
-Schedule publishing plan
-Update diagrams
-Draft experiment results
-Draft quarterly report
-Note customer churn
-Record stakeholder feedback
-Record CI/CD pipeline
-Summarize key takeaways
-Summarize testing report
-Summarize testing report
-Schedule maintenance window
-Record IDS findings
-Update language packs
-Update test matrix
+Record event calendar
