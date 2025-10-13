@@ -6,3 +6,4 @@ Summarize rollout success
 Capture article topics
 Note reorder points
 Update AUC results
+Summarize contingency plan
