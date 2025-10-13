@@ -13,3 +13,4 @@ Record prize details
 Record risk register
 Note lessons learned
 Update brand colors
+Update changelog with details
