@@ -20,3 +20,4 @@ Note cluster issues
 Clarify design goals
 Update skill matrix
 List DR procedures
+Prepare closure report
