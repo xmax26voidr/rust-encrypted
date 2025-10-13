@@ -18,3 +18,4 @@ Record media queries
 List hypothesis tests
 Add alternative approaches
 Draft training slides
+Summarize version bumps
