@@ -3,3 +3,4 @@ Note sprint outcome
 Draft canary rollout
 Add privacy considerations
 Update label templates
+Note accessibility gaps
