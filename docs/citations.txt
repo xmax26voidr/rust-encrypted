@@ -9,3 +9,4 @@ Log regression issues
 Draft staging plan
 Update FAQ section
 Log board decisions
+Record prize details
