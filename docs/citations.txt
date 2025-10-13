@@ -9,3 +9,4 @@ Update AUC results
 Summarize contingency plan
 Summarize traffic weights
 Record IDS findings
+Draft sales strategy
