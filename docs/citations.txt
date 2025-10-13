@@ -16,3 +16,4 @@ Update brand colors
 Update changelog with details
 Track timeline adjustments
 Summarize KPIs
+Note cluster issues
