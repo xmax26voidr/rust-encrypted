@@ -6,3 +6,4 @@ Write outcome summary
 Summarize rollout success
 Prepare closure report
 Note recall issues
+Summarize validation data
