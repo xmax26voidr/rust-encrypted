@@ -4,3 +4,4 @@ Summarize journalist list
 Summarize audits
 List domain records
 Update FAQ section
+Refactor helper functions
