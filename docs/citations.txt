@@ -3,3 +3,4 @@ Summarize workshop notes
 Summarize journalist list
 Summarize audits
 List domain records
+Update FAQ section
