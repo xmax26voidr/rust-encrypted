@@ -4,3 +4,4 @@ Note DNS changes
 Review billing items
 Plan cashflow forecast
 List known limitations
+Automate creation of release branch and tags
