@@ -5,3 +5,4 @@ Review billing items
 Plan cashflow forecast
 List known limitations
 Automate creation of release branch and tags
+Document parameter constraints for the search endpoint
